@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Forty
+title: Portfolio Website for Daniil Ternovskyi
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,23 +10,23 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hi, my name is Daniil Ternovskyi and this is my Portfolio Website.
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: State College, PA 16801
+        country: United States
+        street: 245 South Gill
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: dternovskyi.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
-        title: Phone
+      - phone: +447502-118-513
+        title: Mobile Phone
   custom_css: []
   custom_js: []
   description: Your description
