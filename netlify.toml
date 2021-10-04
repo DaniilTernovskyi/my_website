@@ -6,6 +6,7 @@
 
 [build] 
   publish = "public"
+  baseURL = "https://dternovskyiportfoliowebsite.netlify.app"
   command = "hugo"
 
 [build.environment]
