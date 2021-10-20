@@ -8,8 +8,7 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+      Portfolio Website to show my progress with R Studio this semester.
     title: Hi, my name is Daniil Ternovskyi and this is my Portfolio Website.
   blog: {}
   contact:
@@ -42,21 +41,21 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
+     # - icon: fa-twitter
+       # label: Twitter
+       # url: https://www.twitter.com
+     # - icon: fa-facebook
+       # label: Facebook
+      #  url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/danny_tera/
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/DaniilTernovskyi
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/daniil-ternovskyi/
   image: ''
   name: Your name
   navigation:
@@ -76,8 +75,8 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    #subtitle: By HTML5 Up
+    title: Home
   tiles:
     enable: yes
     showcase:
