@@ -103,7 +103,7 @@ params:
       - image: LBS.png
         subtitle: My sample R work
         title: Sample Assignment
-        url: blogs/ipsum
+        url: blogs/sample
    
   #two:
     #buttonText: Get Started
